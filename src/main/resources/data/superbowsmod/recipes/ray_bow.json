@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNL",
+    "BU ",
+    "NNL"
+  ],
+  "key": {
+    "N": { "item": "minecraft:netherite_ingot" },
+    "L": { "item": "minecraft:lava_bucket" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" }
+  },
+  "result": {
+    "item": "superbowsmod:ray_bow"
+  }
+}

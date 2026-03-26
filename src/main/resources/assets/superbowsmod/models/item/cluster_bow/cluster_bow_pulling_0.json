@@ -1,0 +1,7 @@
+{
+  "parent": "item/bow_pulling_0",
+  "textures": {
+    "layer0": "superbowsmod:item/cluster_bow/cluster_bow-2",
+    "bow": "superbowsmod:item/cluster_bow/cluster_bow-2"
+  }
+}

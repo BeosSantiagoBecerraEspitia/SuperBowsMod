@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "BUT",
+    " E "
+  ],
+  "key": {
+    "E": { "item": "minecraft:ender_eye" },
+    "T": { "item": "minecraft:enchanting_table" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" }
+  },
+  "result": {
+    "item": "superbowsmod:homing_bow"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "creativetab.superbows_tab": "Super Arcos",
+
+  "block.superbowsmod.trail_dirt": "Tierra de Rastro",
+
+  "item.superbowsmod.trail_bow": "Arco de Rastro",
+  "item.superbowsmod.test_bow": "Arco de Prueba",
+  "item.superbowsmod.homing_bow": "Arco Rastreador",
+  "item.superbowsmod.orbit_bow": "Arco Orbital",
+  "item.superbowsmod.soy_bow": "Arco Natural",
+  "item.superbowsmod.goat_bow": "Arco de Cabra",
+  "item.superbowsmod.launch_bow": "Arco Lanzador",
+  "item.superbowsmod.tnt_bow": "Arco TNT",
+  "item.superbowsmod.expeller_bow": "Arco Repulsor",
+  "item.superbowsmod.frozen_bow": "Arco Congelante",
+  "item.superbowsmod.bee_bow": "Arco de Abejas",
+  "item.superbowsmod.cluster_bow": "Arco de Racimo",
+  "item.superbowsmod.ray_bow": "Arco de bringstone",
+  "item.superbowsmod.giant_bow": "Arco Jumbo dumbo",
+
+  "item.superbowsmod.upgrade": "Mejora",
+  "item.superbowsmod.supermagiccrystal": "Cristal Súper Mágico"
+}

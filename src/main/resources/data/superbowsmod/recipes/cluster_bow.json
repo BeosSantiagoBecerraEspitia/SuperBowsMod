@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BUA",
+    "AAA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:arrow" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" }
+  },
+  "result": {
+    "item": "superbowsmod:cluster_bow"
+  }
+}

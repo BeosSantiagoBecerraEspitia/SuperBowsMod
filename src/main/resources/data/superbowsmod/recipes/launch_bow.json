@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "BUP",
+    " S "
+  ],
+  "key": {
+    "S": { "item": "minecraft:slime_ball" },
+    "P": { "item": "minecraft:sticky_piston" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" }
+  },
+  "result": {
+    "item": "superbowsmod:launch_bow"
+  }
+}

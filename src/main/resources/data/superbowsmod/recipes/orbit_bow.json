@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EO ",
+    "BU ",
+    " OE"
+  ],
+  "key": {
+    "E": { "item": "minecraft:end_stone" },
+    "O": { "item": "minecraft:obsidian" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" }
+  },
+  "result": {
+    "item": "superbowsmod:orbit_bow"
+  }
+}

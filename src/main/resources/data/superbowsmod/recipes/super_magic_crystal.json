@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AEA",
+    "D D",
+    "AEA"
+  ],
+  "key": {
+    "A": { "item": "minecraft:amethyst_shard" },
+    "E": { "item": "minecraft:emerald" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "item": "superbowsmod:super_magic_crystal"
+  }
+}

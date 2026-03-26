@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "BUD",
+    "PPP"
+  ],
+  "key": {
+    "P": { "tag": "minecraft:planks" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" },
+    "D": { "item": "minecraft:dispenser" }
+  },
+  "result": {
+    "item": "superbowsmod:trail_bow"
+  }
+}

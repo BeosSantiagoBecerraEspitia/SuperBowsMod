@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ODO",
+    "BU ",
+    "ODO"
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "O": { "item": "minecraft:obsidian" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" }
+  },
+  "result": {
+    "item": "superbowsmod:giant_bow"
+  }
+}

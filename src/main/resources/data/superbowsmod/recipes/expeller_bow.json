@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "BUT",
+    " G "
+  ],
+  "key": {
+    "G": { "item": "superbowsmod:goat_bow" },
+    "L": { "item": "superbowsmod:launch_bow" },
+    "T": { "item": "superbowsmod:tnt_bow" },
+    "B": { "item": "minecraft:bow" },
+    "U": { "item": "superbowsmod:upgrade" }
+  },
+  "result": {
+    "item": "superbowsmod:expeller_bow"
+  }
+}
